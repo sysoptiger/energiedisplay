@@ -1,0 +1,23 @@
+{
+  "mqtt": {
+    "broker": "192.168.1.10",
+    "port": 1883,
+    "username": "",
+    "password": ""
+  },
+  "geraet": {
+    "master": "MSA-000000000000",
+    "auto_control": true
+  },
+  "speicher": {
+    "kapazitaet_kwh": 4.48,
+    "soc_min": 11
+  },
+  "pv_anlage": {
+    "kwp": 0.8,
+    "breitengrad": 51.0,
+    "laengengrad": 10.0,
+    "azimut": 90,
+    "neigung": 50
+  }
+}
